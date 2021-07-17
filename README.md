@@ -1,5 +1,5 @@
 # Course-Registration-System
-An object-oriented Java implementation of a cuniversity Course Registration System (CRS) for the use of school’s administration that deals with student registration and all students registered in courses.
+An object-oriented Java implementation of a university Course Registration System (CRS) for the use of school’s administration that deals with student registration and all students registered in courses.
 
 --- Course Management ---
 1. Create a new course
